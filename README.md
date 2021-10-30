@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andrey-jc (Stuffing-code)
+- 👋 Hi, I’m @Andrey-jc (my second profile @Stuffing-code)
 - 👀 I’m interested in Java development
 - 🌱 I’m currently learning in a company "League of the digital economy"
 - 📫 How to reach me stuffingcode@gmail.com
